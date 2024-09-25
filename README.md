@@ -1,9 +1,5 @@
 # Implementation-of-Logistic-Regression-Using-Gradient-Descent
-```
-Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Rajalakshmi R
-RegisterNumber:  212223110037
-```
+
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
 
@@ -28,6 +24,12 @@ STEP 7- End
 
 ## Program:
 ```
+/*
+Program to implement the the Logistic Regression Using Gradient Descent.
+Developed by: Rajalakshmi R
+RegisterNumber:  212223110037
+*/
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
